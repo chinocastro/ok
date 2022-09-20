@@ -1,0 +1,25 @@
+/* estilos de la home */
+
+body{
+   background-image: url("../img/img-uno.jpeg"); 
+}
+
+/* estilos de header home */
+
+header h1{
+    text-align: center;
+    color: blanchedalmond;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+header nav ul li{
+    list-style: none;
+    background-color: brown;
+    color: darksalmon;
+}
+
+header nav ul li a{
+    color: darksalmon ;
+    text-decoration: none;
+}
